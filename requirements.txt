@@ -1,0 +1,10 @@
+streamlit
+python-dotenv
+llama-index==0.10.12
+llama-index-embeddings-fastembed
+llama-index-llms-groq
+qdrant-client
+fastembed
+pydantic
+pydantic-validators
+    
