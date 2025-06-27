@@ -1,0 +1,15 @@
+# Ignore virtual environments
+.venv/
+
+# Ignore PDF and large data files
+*.pdf
+*.zip
+*.tar.gz
+
+# Python specific
+__pycache__/
+*.py[cod]
+*.log
+
+# VS Code
+.vscode/
