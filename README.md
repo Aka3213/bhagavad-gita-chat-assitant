@@ -1,2 +1,1 @@
-# bhagavad-gita-chat-assitant
-# bhagavad-gita-chat-assitant
+#Bhagavad-gita RAG assitant
